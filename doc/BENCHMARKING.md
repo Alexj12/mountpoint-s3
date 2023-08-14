@@ -1,5 +1,6 @@
 ## Benchmarking
-Currently, Mountpoint for Amazon S3 is an alpha release and we are focusing on delivering high throughput read support. In order to make sure that new changes do not introduce performance regression, we have created some performance benchmark as a part of our CI using [fio](https://github.com/axboe/fio), an awesome open-source application for file system benchmarking.
+
+With Mountpoint for Amazon S3, we are focusing on delivering high-throughput read support. In order to make sure that new changes do not introduce performance regression, we have created some performance benchmark as a part of our CI using [fio](https://github.com/axboe/fio), an awesome open-source application for file system benchmarking.
 
 ### Workloads
 
